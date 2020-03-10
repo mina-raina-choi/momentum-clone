@@ -1,0 +1,24 @@
+.btn {
+  cursor: pointer;
+}
+
+body {
+  color: #34495e;
+  /* transition: color 0.5s ease-in-out; */
+}
+
+.clicked {
+  color: #7f8c8d;
+}
+
+.form {
+  display: none;
+}
+
+.greetings {
+  display: none;
+}
+
+.showing {
+  display: block;
+}
